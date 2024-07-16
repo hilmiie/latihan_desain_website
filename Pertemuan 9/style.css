@@ -1,0 +1,14 @@
+header{
+    color: brown;
+}
+body{
+        background-image: url(ayamku.webp);
+}
+h1{
+    text-align: center;
+    color: black;
+    border-bottom: 2px solid red
+}
+p{
+    text-align: center;
+}

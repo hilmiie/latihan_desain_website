@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(50, 137, 174);
+    
+}
+
+div {
+  background-color: aqua;
+  width: 320px;
+  height: 90px;
+  padding: 30px;
+  border: 6px solid rgb(226, 12, 12);
+  margin: 400;
+}
+h2{
+    text-align: center;
+}

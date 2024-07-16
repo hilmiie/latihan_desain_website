@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style12.css">
+</head>
+<body>
+
+<h2>Tanpa Clearfix</h2>
+
+<p>Gambar ini melayang ke kanan. Ia juga lebih tinggi dari elemen yang memuatnya, sehingga meluap ke luar wadahnya:
+<div>
+  <img class="img1" src="download.jpg" alt="Pineapple" width="170" height="170">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...
+</div>
+
+<h2 style="clear:right">Dengan Clearfix</h2>
+<p>Kita dapat memperbaikinya dengan menambahkan kelas clearfix dengan overflow: auto; ke elemen yang mengandung:</p>
+
+<div class="clearfix">
+  <img class="img2" src="download.jpg" alt="Pineapple" width="170" height="170">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet...
+</div>
+
+</body>
+</html>
+
+

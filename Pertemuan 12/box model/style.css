@@ -1,0 +1,9 @@
+
+div {
+    background-image: url(aym.png);
+    width: 400px;
+    height: 300px;
+    border: 15px solid rgb(0, 100, 128);
+    padding: 50px;
+    margin: 20px;
+  }
